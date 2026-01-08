@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+opencv-python
+einops
+tqdm
+pyyaml
+av
