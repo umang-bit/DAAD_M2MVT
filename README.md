@@ -1,4 +1,3 @@
-Here is a **clean, professional, research-grade `README.md`** you can directly paste into your 
 # M²MVT on DAAD (Multi-View + Eye-Gaze + Episodic Memory)
 
 This repository contains a **paper-faithful PyTorch implementation** of the **M²MVT (Multi-Modal Multi-View Transformer)** architecture on the **DAAD dataset**, incorporating **multi-view driving videos**, **real eye-gaze data**, and **episodic memory** for **driving maneuver anticipation**.
